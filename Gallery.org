@@ -1,5 +1,7 @@
 #+TITLE: Gallery
 
+Back to [[file:./README.org][README]].
+
 * An overview of wallpapers
 
 data-center-glow.png
@@ -41,5 +43,5 @@ nixos-c-couch.png
 nixos-data-center.png
 [[file:./nixos-data-center.png]]
 
-nixos-wallpaper.png
+nixos-wallpaper.png (Not mine, used it as a base for a few)
 [[file:./nixos-wallpaper.png]]

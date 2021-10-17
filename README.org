@@ -4,4 +4,4 @@ have some you wanna add, or perhaps a better idea about structuring this... do
 tell.
 
 
-[[./Gallery.org]]
+View the [[./Gallery.org][gallery]] to browse the wallapers easily.
