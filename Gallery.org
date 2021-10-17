@@ -43,5 +43,7 @@ nixos-c-couch.png
 nixos-data-center.png
 [[file:./nixos-data-center.png]]
 
-nixos-wallpaper.png (Not mine, used it as a base for a few)
+nixos-wallpaper.png
+(originally by /u/saae on reddit, source [[file:./nord-and-logo-wallpaper.svg]])
 [[file:./nixos-wallpaper.png]]
+
