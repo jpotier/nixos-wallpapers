@@ -1,1 +1,7 @@
 * NixOS Wallpapers
+Just some wallpapers I made. I might add more later I guess. and hey, if you
+have some you wanna add, or perhaps a better idea about structuring this... do
+tell.
+
+
+[[./Gallery.org]]
