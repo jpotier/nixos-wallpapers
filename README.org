@@ -5,3 +5,10 @@ tell.
 
 
 View the [[./Gallery.org][gallery]] to browse the wallapers easily.
+
+** How do I NixOS
+Well... Well, you don't really. I mean, it's not just something you do.
+
+Are you sure?
+
+Ok, well, I started here [[https://www.github.com/hlissner/dotfiles]], good luck .
